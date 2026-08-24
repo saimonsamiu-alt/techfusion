@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "স্মার্টফোন",
+    "name": "Fusion X12 Pro",
+    "price": "৳ ৪২,৯০০",
+    "description": "6.7\" AMOLED, 256GB, 5G",
+    "image": "images/fusion-x12.jpg",
+    "shape": "phone"
+  },
+  {
+    "tag": "অডিও",
+    "name": "Fusion Buds Air",
+    "price": "৳ ৩,৪৯০",
+    "description": "নয়েজ ক্যান্সেলেশন, ৩০ ঘণ্টা ব্যাকআপ",
+    "image": "",
+    "shape": "earbud"
+  },
+  {
+    "tag": "ওয়্যারেবল",
+    "name": "Fusion Watch S2",
+    "price": "৳ ৬,৯০০",
+    "description": "হার্ট রেট, SpO2, ৭ দিন ব্যাটারি",
+    "image": "",
+    "shape": "watch"
+  }
+]
